@@ -1,0 +1,14 @@
+C:\_azmi\c# projects\BloombergDotNet\BloombergDotNet\bin\Debug\BloombergDotNet.exe
+C:\_azmi\c# projects\BloombergDotNet\BloombergDotNet\bin\Debug\BloombergDotNet.pdb
+C:\_azmi\c# projects\BloombergDotNet\BloombergDotNet\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\_azmi\c# projects\BloombergDotNet\BloombergDotNet\obj\x86\Debug\MainWindow.baml
+C:\_azmi\c# projects\BloombergDotNet\BloombergDotNet\obj\x86\Debug\MainWindow.g.cs
+C:\_azmi\c# projects\BloombergDotNet\BloombergDotNet\obj\x86\Debug\App.g.cs
+C:\_azmi\c# projects\BloombergDotNet\BloombergDotNet\obj\x86\Debug\BloombergDotNet_MarkupCompile.cache
+C:\_azmi\c# projects\BloombergDotNet\BloombergDotNet\obj\x86\Debug\BloombergDotNet.g.resources
+C:\_azmi\c# projects\BloombergDotNet\BloombergDotNet\obj\x86\Debug\BloombergDotNet.Properties.Resources.resources
+C:\_azmi\c# projects\BloombergDotNet\BloombergDotNet\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\_azmi\c# projects\BloombergDotNet\BloombergDotNet\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\_azmi\c# projects\BloombergDotNet\BloombergDotNet\obj\x86\Debug\BloombergDotNet.exe
+C:\_azmi\c# projects\BloombergDotNet\BloombergDotNet\obj\x86\Debug\BloombergDotNet.pdb
+C:\_azmi\c# projects\BloombergDotNet\BloombergDotNet\bin\Debug\BEmu.dll
